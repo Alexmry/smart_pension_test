@@ -55,4 +55,4 @@ I started with some pending tests and I built from there
 Here is my work in 2.5 hours. If I have had more time:
 - I would have refactored and improveed my tests
 - I would have organized my code with the MVC partern.
-- I would have asked someone to review my code, because I get different results than the e.g. from the exercise. I must have done something wrong 
+- I would have asked someone to review my code, because I got different results than the e.g. from the exercise. I must have done something wrong 
